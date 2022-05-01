@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+let x = 10;
+
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
